@@ -4,7 +4,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: I'd love working on backend projects to learn more about it.
 
-- :zap: In my free time, I like reading tech articles and building my house.
+- :zap: In my free time, I like to test new stuff and build my house.
 
 - :mailbox:How to reach me: thibaud.moretto@gmail.com **or** [![Linkedin Badge](https://img.shields.io/badge/-Thibaud-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thibaud-moretto/)
 ---
