@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="linkedin.com/in/thibaud-moretto">
+  <a href="https://linkedin.com/in/thibaud-moretto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="thibaud-moretto.fr">
+  <a href="https://thibaud-moretto.fr" target="_blank">
     <img src="https://img.shields.io/badge/Website-brown?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
