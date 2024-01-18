@@ -1,3 +1,25 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="linkedin.com/in/thibaud-moretto">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="thibaud-moretto.fr">
+    <img src="https://img.shields.io/badge/Website-brown?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website Badge"/>
+  </a>
+</div>
+
+<div  align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThibaudMoretto&style=flat-square&color=green" alt="" />
+</div>
+
+<h1 align="center">
+  Hey there !
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 - :telescope: I’m working as a Frontend Developer and contributing to frontend for building web applications.
